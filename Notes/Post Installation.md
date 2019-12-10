@@ -1,0 +1,1 @@
+* Motherboard does not support native NVRAM so it must be [emulated](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/post-install/nvram) by using [`LogoutHook.command`](https://github.com/acidanthera/OcSupportPkg/blob/master/Utilities/LogoutHook/LogoutHook.command) in conjuction with `launchd` `LogoutHook` preference.
