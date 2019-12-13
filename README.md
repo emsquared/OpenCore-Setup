@@ -10,9 +10,14 @@ I am uploading this as a public repository for two purposes:
 
 # Hardware
 
+* Cooler Master GM Series G650M
 * MSI MPG Z390 GAMING PLUS
 * Intel 9900K**F**
 * XFX Radeon VII 16GB
+* HyperX Fury 32GB (2 x 16GB) 3200MHz DDR4
+* Samsung SSD 850 EVO 500GB
+* 8TB hard disk storage (2 x 4TB)
+* Nixeus EDG 27" 1440p IPS display (NX-EDG27S v2) 
 
 None of this hardware is overclocked.
 
