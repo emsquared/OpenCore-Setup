@@ -6,7 +6,7 @@ This is my personal configuration for running a Hackintosh using [OpenCorePkg](h
 
 I am uploading this as a public repository for two purposes:
 1. Allow myself to keep track of changes I make and back them up.
-2. Allow others with similiar hardware to find a _possibly_ suitable configuration.
+2. Allow others with similar hardware to find a _possibly_ suitable configuration.
 
 # Hardware
 
@@ -29,4 +29,4 @@ Wifi and Bluetooth work with zero configuration, out of the box, thanks to [this
 
 I am a novice when it comes to building a hackintosh. I do not understand a lot of what happens behind the scenes. This configuration is a combination of the helpful [vanilla guide](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/) and [reading the entire docuemtnation](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf).
 
-**I DO NOT provide any gurantees for this setup outside of my own use case.**
+**I DO NOT provide any guarantees for this setup outside of my own use case.**
