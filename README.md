@@ -10,6 +10,7 @@ I am uploading this as a public repository for two purposes:
 
 # Hardware
 
+* **Case**: Fractal Design Define R6
 * **Power**: Cooler Master GM Series G650M
 * **Motherboard**: MSI MPG Z390 GAMING PLUS
 * **Processor**: Intel 9900K**F**
