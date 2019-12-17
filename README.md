@@ -11,7 +11,7 @@ I am uploading this as a public repository for two purposes:
 # Hardware
 
 * **Case**: [Fractal Design Define R6](https://www.amazon.com/gp/product/B07HQKF7F2/)
-* **Power**: [EVGA SuperNOVA 1000](https://www.amazon.com/gp/product/B00CGYCNG2/) (overkill; yes - have it for future proofing)
+* **Power**: [EVGA SuperNOVA 1000 G2](https://www.amazon.com/gp/product/B00CGYCNG2/) (overkill; yes - have it for future proofing)
 * **Motherboard**: [MSI MPG Z390 GAMING PLUS](https://www.amazon.com/MSI-MPG-Z390-LGA1151-Motherboard/dp/B07HMG1XP7/)
 * **Processor**: [Intel 9900K**F**](https://www.amazon.com/gp/product/B07MGBZWDZ/)
 * **Graphics**: [XFX Radeon VII 16GB](https://www.amazon.com/gp/product/B07NFGDZWQ/)
