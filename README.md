@@ -10,15 +10,15 @@ I am uploading this as a public repository for two purposes:
 
 # Hardware
 
-* **Case**: Fractal Design Define R6
-* **Power**: Cooler Master GM Series G650M
-* **Motherboard**: MSI MPG Z390 GAMING PLUS
-* **Processor**: Intel 9900K**F**
-* **Graphics**: XFX Radeon VII 16GB
-* **Memory**: HyperX Fury 32GB (2 x 16GB) 3200MHz DDR4
-* **Primary Storage**: Samsung SSD 850 EVO 500GB
+* **Case**: [Fractal Design Define R6](https://www.amazon.com/gp/product/B07HQKF7F2/)
+* **Power**: [EVGA SuperNOVA 1000](https://www.amazon.com/gp/product/B00CGYCNG2/) (overkill; yes - have it for future proofing)
+* **Motherboard**: [MSI MPG Z390 GAMING PLUS](https://www.amazon.com/MSI-MPG-Z390-LGA1151-Motherboard/dp/B07HMG1XP7/)
+* **Processor**: [Intel 9900K**F**](https://www.amazon.com/gp/product/B07MGBZWDZ/)
+* **Graphics**: [XFX Radeon VII 16GB](https://www.amazon.com/gp/product/B07NFGDZWQ/)
+* **Memory**: [HyperX Fury 32GB (2 x 16GB) 3200MHz DDR4](https://www.amazon.com/gp/product/B07WJJJ5M6/)
+* **Primary Storage**: [Samsung SSD 850 EVO 500GB](https://www.amazon.com/Samsung-500GB-Internal-MZ-76E500B-AM/dp/B0781Z7Y3S/)
 * **Secondary Storage**: 8TB hard disk storage (2 x 4TB)
-* **Display**: Nixeus EDG 27" 1440p IPS display (NX-EDG27S v2)
+* **Display**: [Nixeus EDG 27" 1440p IPS display (NX-EDG27S v2)](https://www.amazon.com/gp/product/B07N4DL9F7/)
 
 None of this hardware is overclocked.
 
