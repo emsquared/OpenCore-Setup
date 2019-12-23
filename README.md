@@ -26,6 +26,11 @@ _Note: My CPU comes without integrated graphics because it was cheaper and I hav
 
 Wifi and Bluetooth work with zero configuration, out of the box, thanks to [this card](https://www.amazon.com/gp/product/B012LOT512/r).
 
+# What Doesn't Work
+
+* `NVRAM` doesn't work. I could emulate it but I do not like the current solution. It is very hacked together. Lack of `NVMRAM` hasn't presented an inconvinence.
+* Onboard audio doesn't work. My speakers are plugged in through my monitor and my headset is USB so I did not take the time to setup `AppleALC` or other patches.
+
 # Disclaimer
 
 I am a novice when it comes to building a hackintosh. I do not understand a lot of what happens behind the scenes. This configuration is a combination of the helpful [vanilla guide](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/) and [reading the entire docuemtnation](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf).
