@@ -79,6 +79,8 @@
 			<true/>
 			<key>ShrinkMemoryMap</key>
 			<false/>
+			<key>SignalAppleOS</key>
+			<false/>
 		</dict>
 	</dict>
 	<key>DeviceProperties</key>
@@ -229,11 +231,15 @@
 			<false/>
 			<key>AppleXcpmExtraMsrs</key>
 			<false/>
+			<key>AppleXcpmForceBoost</key>
+			<false/>
 			<key>CustomSMBIOSGuid</key>
 			<false/>
 			<key>DisableIoMapper</key>
 			<false/>
 			<key>ExternalDiskIcons</key>
+			<false/>
+			<key>IncreasePciBarSize</key>
 			<false/>
 			<key>LapicKernelPanic</key>
 			<false/>
@@ -291,6 +297,10 @@
 		<dict>
 			<key>AllowNvramReset</key>
 			<true/>
+			<key>AllowSetDefault</key>
+			<false/>
+			<key>AuthRestart</key>
+			<false/>
 			<key>ExposeSensitiveData</key>
 			<integer>6</integer>
 			<key>HaltLevel</key>
@@ -334,6 +344,8 @@
 		</dict>
 		<key>LegacyEnable</key>
 		<false/>
+		<key>LegacyOverwrite</key>
+		<false/>
 		<key>LegacySchema</key>
 		<dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
@@ -359,6 +371,8 @@
 				<string>BootOrder</string>
 			</array>
 		</dict>
+		<key>WriteFlash</key>
+		<true/>
 	</dict>
 	<key>PlatformInfo</key>
 	<dict>
@@ -396,7 +410,6 @@
 		<array>
 			<string>ApfsDriverLoader.efi</string>
 			<string>FwRuntimeServices.efi</string>
-			<string>VirtualSmc.efi</string>
 			<string>VBoxHfs.efi</string>
 		</array>
 		<key>Input</key>
@@ -428,6 +441,8 @@
 			<false/>
 			<key>AppleKeyMap</key>
 			<false/>
+			<key>AppleSmcIo</key>
+			<true/>
 			<key>AppleUserInterfaceTheme</key>
 			<false/>
 			<key>ConsoleControl</key>
@@ -439,6 +454,8 @@
 			<key>FirmwareVolume</key>
 			<true/>
 			<key>HashServices</key>
+			<false/>
+			<key>OSInfo</key>
 			<false/>
 			<key>UnicodeCollation</key>
 			<false/>
