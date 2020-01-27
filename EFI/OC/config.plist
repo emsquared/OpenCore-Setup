@@ -30,6 +30,14 @@
 				<key>Enabled</key>
 				<true/>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>300-series NVRAM patch</string>
+				<key>Path</key>
+				<string>SSDT-PMC.aml</string>
+				<key>Enabled</key>
+				<true/>
+			</dict>
 		</array>
 		<key>Block</key>
 		<array/>
@@ -323,8 +331,6 @@
 			<dict/>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
-				<key>EnableTRIM</key>
-				<data>AQAAAA==</data>
 				<key>boot-args</key>
 				<string>keepsyms=1 debug=0x100 npci=0x3000 shikigva=144</string>
 				<key>prev-lang:kbd</key>

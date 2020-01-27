@@ -57,7 +57,6 @@ Wifi and Bluetooth work with zero configuration, out of the box, thanks to [this
 
 # What Doesn't Work
 
-* `NVRAM` doesn't work. I could emulate it but I do not like the current solution. It is very hacked together. Lack of `NVMRAM` hasn't presented an inconvinence.
 * Onboard audio doesn't work. My speakers are plugged in through my monitor and my headset is USB so I did not take the time to setup `AppleALC` or other patches.
 
 # Disclaimer
