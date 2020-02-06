@@ -47,7 +47,8 @@ Wifi and Bluetooth work with zero configuration, out of the box, thanks to [this
 | [EK-Tube ZMT Matte Black 16,1/11,1mm 3M](https://www.ekwb.com/shop/ek-tube-zmt-matte-black-16-1-11-1mm-3m-retail) | 1 |
 | [EK-CryoFuel Clear (Premix 1000mL)](https://www.ekwb.com/shop/ek-cryofuel-clear-premix-1000ml) | 1 |
 | [EK-Torque STC-12/16 - Black](https://www.ekwb.com/shop/ek-torque-stc-12-16-black) | 10 |
-| [EK-AF Angled 90° G1/4 Black](https://www.ekwb.com/shop/ek-af-angled-90-g1-4-black) | 5 |
+| [EK-Torque Angled 90° - Black](https://www.ekwb.com/shop/ek-torque-angled-90-black) | 3 |
+| [EK-AF Angled 90° G1/4 Black](https://www.ekwb.com/shop/ek-af-angled-90-g1-4-black) | 2 |
 | [EK-AF Angled 45° G1/4 Black](https://www.ekwb.com/shop/ek-af-angled-45-g1-4-black) | 1 |
 | [EK-AF Ball Valve (10mm) G1/4 - Black](https://www.ekwb.com/shop/ek-af-ball-valve-10mm-g1-4-black) | 1 |
 | [EK-AF T-Splitter 3F G1/4 - Black](https://www.ekwb.com/shop/ek-af-t-splitter-3f-g1-4-black) | 1 |
