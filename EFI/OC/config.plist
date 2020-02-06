@@ -270,7 +270,7 @@
 		<key>Boot</key>
 		<dict>
 			<key>BuiltinTextRenderer</key>
-			<false/>
+			<true/>
 			<key>ConsoleBehaviourOs</key>
 			<string>ForceGraphics</string>
 			<key>ConsoleBehaviourUi</key>
@@ -286,7 +286,7 @@
 			<key>Resolution</key>
 			<string>Max</string>
 			<key>ShowPicker</key>
-			<true/>
+			<false/>
 			<key>TakeoffDelay</key>
 			<integer>0</integer>
 			<key>Timeout</key>
@@ -312,11 +312,11 @@
 			<key>AllowNvramReset</key>
 			<true/>
 			<key>AllowSetDefault</key>
-			<false/>
+			<true/>
 			<key>AuthRestart</key>
 			<false/>
 			<key>ExposeSensitiveData</key>
-			<integer>6</integer>
+			<integer>0</integer>
 			<key>HaltLevel</key>
 			<integer>2147483648</integer>
 			<key>RequireSignature</key>
