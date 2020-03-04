@@ -52,9 +52,10 @@ Wifi and Bluetooth work with zero configuration, out of the box, thanks to [this
 | [EK-AF Angled 45° G1/4 Black](https://www.ekwb.com/shop/ek-af-angled-45-g1-4-black) | 1 |
 | [EK-AF Ball Valve (10mm) G1/4 - Black](https://www.ekwb.com/shop/ek-af-ball-valve-10mm-g1-4-black) | 1 |
 | [EK-AF T-Splitter 3F G1/4 - Black](https://www.ekwb.com/shop/ek-af-t-splitter-3f-g1-4-black) | 1 |
-| [EK-AF Extender 6mm M-M G1/4 - Black](https://www.ekwb.com/shop/ek-af-extender-6mm-m-m-black) | 2 |
+| [EK-AF Extender 6mm M-M G1/4 - Black](https://www.ekwb.com/shop/ek-af-extender-6mm-m-m-black) | 1 |
 | [EK-AF Extender 30mm M-F G1/4 - Black](https://www.ekwb.com/shop/ek-af-ball-valve-10mm-g1-4-black) | 4 |
 | [EK-AF Extender Rotary M-F G1/4 - Black](https://www.ekwb.com/shop/ek-af-extender-rotary-m-f-g1-4-black) | 3 |
+| [EK-AF Extender Rotary M-M G1/4 - Black](https://www.ekwb.com/shop/ek-af-extender-rotary-m-m-g1-4-black) | 1 |
 
 # Disclaimer
 
