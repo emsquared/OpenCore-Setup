@@ -56,10 +56,6 @@ Wifi and Bluetooth work with zero configuration, out of the box, thanks to [this
 | [EK-AF Extender 30mm M-F G1/4 - Black](https://www.ekwb.com/shop/ek-af-ball-valve-10mm-g1-4-black) | 4 |
 | [EK-AF Extender Rotary M-F G1/4 - Black](https://www.ekwb.com/shop/ek-af-extender-rotary-m-f-g1-4-black) | 3 |
 
-# What Doesn't Work
-
-* Onboard audio doesn't work. My speakers are plugged in through my monitor and my headset is USB so I did not take the time to setup `AppleALC` or other patches.
-
 # Disclaimer
 
 I am a novice when it comes to building a hackintosh. I do not understand a lot of what happens behind the scenes. This configuration is a combination of the helpful [vanilla guide](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/) and [reading the entire docuemtnation](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf).
