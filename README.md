@@ -2,13 +2,33 @@
 
 This is my personal configuration for running a Hackintosh using [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg/releases).
 
-![Setup Screenshot](https://raw.githubusercontent.com/emsquared/OpenCore-Setup/master/Images/Setup.png)
+![Setup Screenshot](https://raw.githubusercontent.com/emsquared/OpenCore-Setup/bigsur/Images/Setup.png)
 
-![Case Photo](https://raw.githubusercontent.com/emsquared/OpenCore-Setup/master/Images/Case.png)
+![Case Photo](https://raw.githubusercontent.com/emsquared/OpenCore-Setup/bigsur/Images/Case.png)
 
 I am uploading this as a public repository for two purposes:
 1. Allow myself to keep track of changes I make and back them up.
 2. Allow others with similar hardware to find a _possibly_ suitable configuration.
+
+# Stability
+
+This configuration is currently working on 11.0 Beta (build 20A4299v) with some stability issues.
+
+It is possible some, or all, of these stability issues are a result of a beta operating system, and not a result of the configuration.
+
+### Stability Issues
+
+* Messages app crashes on launch.
+* Maps app crashes on launch.
+* Using quick look on a file causes a kernel panic.
+* Clock settings cannot be modified in System Preferences.
+* Vibrancy effects appear to flicker in some alerts when using the zoom accessibility feature.
+
+# Installation
+
+I installed Big Sur on an unformatted disk using this configuration on an off-the-shelf USB stick. There was no trickery involved using another Mac or virtualization. 
+
+I **do not** know if this configuration will work with in-place upgrades from macOS Catalina.
 
 # Hardware
 
@@ -27,7 +47,7 @@ None of this hardware is overclocked.
 
 _Note: My CPU comes without integrated graphics because it was cheaper and I have a dedicated GPU. **I therefore do not know if this configuration will work with integrated graphics.**_
 
-Wifi and Bluetooth work with zero configuration, out of the box, thanks to [this card](https://www.amazon.com/gp/product/B012LOT512/r).
+Wifi and Bluetooth work with zero configuration, out of the box, using [this card](https://www.amazon.com/gp/product/B012LOT512/r).
 
 ### Watercooling Components
 
