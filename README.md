@@ -2,25 +2,29 @@
 
 This is my personal configuration for running a Hackintosh using [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg/releases).
 
-![Setup Screenshot](https://raw.githubusercontent.com/emsquared/OpenCore-Setup/bigsur/Images/Setup.png)
+![Setup Screenshot](Images/Setup.png)
 
-![Case Photo](https://raw.githubusercontent.com/emsquared/OpenCore-Setup/bigsur/Images/Case.png)
+![Case Photo](Images/Case.png)
 
 I am uploading this as a public repository for two purposes:
 1. Allow myself to keep track of changes I make and back them up.
 2. Allow others with similar hardware to find a _possibly_ suitable configuration.
 
-# Stability
+# Target
 
-This configuration is currently working on 11.0 Beta (build 20A4299v) with some stability issues.
+This configuration currently targets macOS 11.0 Beta (build 20A4299v).
+
+Previous configuratrions:
+
+* [macOS Catalina](https://github.com/emsquared/OpenCore-Setup/releases/tag/macOS-Catalina)
+
+# Stability
 
 It is possible some, or all, of these stability issues are a result of a beta operating system, and not a result of the configuration.
 
 ### Stability Issues
 
-* Messages app crashes on launch.
-* Maps app crashes on launch.
-* Using quick look on a file causes a kernel panic.
+* ~~The Maps app & Messages crash on launch.~~ - Resolved by lowering display refresh rate to 60hz.
 * Clock settings cannot be modified in System Preferences.
 * Vibrancy effects appear to flicker in some alerts when using the zoom accessibility feature.
 
