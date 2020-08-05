@@ -12,27 +12,11 @@ I am uploading this as a public repository for two purposes:
 
 # Target
 
-This configuration currently targets macOS 11.0 Beta (build 20A4299v).
+This configuration currently targets macOS 11.0 Beta (build 20A5343i).
 
 Previous configurations:
 
 * [macOS Catalina](https://github.com/emsquared/OpenCore-Setup/releases/tag/macOS-Catalina)
-
-# Stability
-
-It is possible some, or all, of these stability issues are a result of a beta operating system, and not a result of the configuration.
-
-### Stability Issues
-
-* ~~The Maps app & Messages crash on launch.~~ - Resolved by lowering display refresh rate to 60hz.
-* Clock settings cannot be modified in System Preferences.
-* Vibrancy effects appear to flicker in some alerts when using the zoom accessibility feature.
-
-# Installation
-
-I installed Big Sur on an unformatted disk using this configuration on an off-the-shelf USB stick. There was no trickery involved using another Mac or virtualization. 
-
-I **do not** know if this configuration will work with in-place upgrades from macOS Catalina.
 
 # Hardware
 
