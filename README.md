@@ -12,7 +12,7 @@ I am uploading this as a public repository for two purposes:
 
 # Target
 
-This configuration currently targets macOS 11.0 Beta (build 20A5343i).
+This configuration currently targets macOS 11.0 Beta (build 20A5354i).
 
 Previous configurations:
 
