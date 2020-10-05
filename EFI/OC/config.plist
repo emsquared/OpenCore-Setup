@@ -215,11 +215,19 @@
 		<array/>
 		<key>Emulate</key>
 		<dict>
+			<key>DummyPowerManagement</key>
+			<false/>
 			<key>Cpuid1Data</key>
 			<data></data>
 			<key>Cpuid1Mask</key>
 			<data></data>
+			<key>MaxKernel</key>
+			<string></string>
+			<key>MinKernel</key>
+			<string></string>
 		</dict>
+		<key>Force</key>
+		<array/>
 		<key>Patch</key>
 		<array/>
 		<key>Quirks</key>
@@ -240,13 +248,15 @@
 			<false/>
 			<key>DisableRtcChecksum</key>
 			<false/>
-			<key>DummyPowerManagement</key>
-			<false/>
+			<key>ExtendBTFeatureFlags</key>
+			<true/>
 			<key>ExternalDiskIcons</key>
 			<false/>
 			<key>IncreasePciBarSize</key>
 			<false/>
 			<key>LapicKernelPanic</key>
+			<false/>
+			<key>LegacyCommpage</key>
 			<false/>
 			<key>PanicNoKextDump</key>
 			<true/>
@@ -256,6 +266,15 @@
 			<false/>
 			<key>XhciPortLimit</key>
 			<false/>
+		</dict>
+		<key>Scheme</key>
+		<dict>
+			<key>FuzzyMatch</key>
+			<true/>
+			<key>KernelArch</key>
+			<string>x86_64</string>
+			<key>KernelCache</key>
+			<string>Auto</string>
 		</dict>
 	</dict>
 	<key>Misc</key>
@@ -279,7 +298,7 @@
 			<key>PollAppleHotKeys</key>
 			<true/>
 			<key>ShowPicker</key>
-			<true/>
+			<false/>
 			<key>TakeoffDelay</key>
 			<integer>0</integer>
 			<key>Timeout</key>
@@ -352,7 +371,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string>keepsyms=1 debug=0x100 npci=0x3000 shikigva=144 slide=0 -v vsmcgen=1</string>
+				<string>keepsyms=1 debug=0x100 npci=0x3000 shikigva=144 slide=0 vsmcgen=1</string>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -414,6 +433,8 @@
 		<dict>
 			<key>AdviseWindows</key>
 			<false/>
+			<key>SystemMemoryStatus</key>
+			<string>Auto</string>
 			<key>MLB</key>
 			<string></string>
 			<key>ProcessorType</key>
@@ -581,6 +602,8 @@
 			<key>UnblockFsConnect</key>
 			<false/>
 		</dict>
+		<key>ReservedMemory</key>
+		<array/>
 	</dict>
 </dict>
 </plist>
