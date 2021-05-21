@@ -12,7 +12,7 @@ I am uploading this as a public repository for two purposes:
 
 # Target
 
-This configuration last tested on macOS 11.0 Beta (20A5374i).
+This configuration last tested on macOS Big Sur 11.3.1 (20E241).
 
 Previous configurations:
 
