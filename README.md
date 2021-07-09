@@ -12,11 +12,12 @@ I am uploading this as a public repository for two purposes:
 
 # Target
 
-This configuration last tested on macOS Big Sur 11.3.1 (20E241).
+This configuration last tested on macOS 12.0 Beta (21A5268h).
 
 Previous configurations:
 
 * [macOS Catalina](https://github.com/emsquared/OpenCore-Setup/releases/tag/macOS-Catalina)
+* [macOS Big Sur](https://github.com/emsquared/OpenCore-Setup/releases/tag/macOS-Big-Sur)
 
 # Hardware
 
